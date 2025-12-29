@@ -5,13 +5,17 @@
  Currently learning **Java, Web Development, and Software Engineering fundamentals**
 
 ---
-Outside of code, you'll find me watching anime, editing videos or drawing. I also enjoy playing cards with my friends.
+### 🌸 About Me
 
-Fun Facts:
- - I love cats
- - Addicted to milk tea
- - Violet Evergarden is my favourite anime
- - **Hobbies:** Anime, drawing, cards
+Outside of code, you’ll find me watching anime, editing videos, or drawing.  
+I also enjoy playing cards with my friends.
+
+### ✨ Fun Facts
+- 🐱 I love cats  
+- 🧋 Addicted to milk tea  
+- 🎬 *Violet Evergarden* is my favourite anime  
+- 🎨 **Hobbies:** Anime, drawing, card games  
+
 
 ✨ *“Learning consistently and building one step at a time.”* ✨
 

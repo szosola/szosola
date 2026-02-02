@@ -5,7 +5,7 @@
  Currently learning **Java, Web Development, and Software Engineering fundamentals**
 
 ---
-### 🌸 About Me
+### About Me
 
 Outside of code, you’ll find me watching anime, editing videos, or drawing.  
 I also enjoy playing cards with my friends.
